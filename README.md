@@ -4,7 +4,7 @@ While waiting for [Star Wars: The Force Awakens](https://en.wikipedia.org/wiki/S
 
 The team needed to collect data addressing this question. To do this, they surveyed Star Wars fans using the online tool SurveyMonkey. They received 835 total responses.
 
-For this project, I will be cleaning and exploring the [data set]https://github.com/fivethirtyeight/data/blob/master/star-wars-survey/StarWars.csv) in Jupyter notebook.
+For this project, I will be cleaning and exploring the [data set](https://github.com/fivethirtyeight/data/blob/master/star-wars-survey/StarWars.csv) in Jupyter notebook.
 
 The data has several columns, including:
 
