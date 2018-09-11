@@ -4,7 +4,7 @@ While waiting for [Star Wars: The Force Awakens](https://en.wikipedia.org/wiki/S
 
 The team needed to collect data addressing this question. To do this, they surveyed Star Wars fans using the online tool SurveyMonkey. They received 835 total responses.
 
-For this project, I will be cleaning and exploring the data set in Jupyter notebook.
+For this project, I will be cleaning and exploring the [data set]https://github.com/fivethirtyeight/data/blob/master/star-wars-survey/StarWars.csv) in Jupyter notebook.
 
 The data has several columns, including:
 
@@ -19,4 +19,7 @@ The data has several columns, including:
 
 There are several other columns containing answers to questions about the Star Wars movies. For some questions, the respondent had to check one or more boxes. This type of data is difficult to represent in columnar format. As a result, this data set needs a lot of cleaning.
 
+This dataset is mainly about the story [America’s Favorite ‘Star Wars’ Movies (And Least Favorite Characters).](https://fivethirtyeight.com/features/americas-favorite-star-wars-movies-and-least-favorite-characters/)
+
 The main dependencies used in this project are pandas,numpy and matplolib.
+
